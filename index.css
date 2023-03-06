@@ -1,0 +1,19 @@
+/* styling heading*/
+
+nav {
+    border-bottom: 1px solid aqua;
+}
+.container ol {
+    list-style-type: none;
+    align-content: center;
+}
+.container a {
+    text-decoration: none;
+    font-family: monospace;
+    color: black;
+    font-size: 20px;
+    padding-inline: 10px;
+}
+.contain {
+    display: inline-block;
+}
